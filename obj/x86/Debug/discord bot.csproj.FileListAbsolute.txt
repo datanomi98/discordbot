@@ -1,0 +1,35 @@
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\discord bot.exe.config
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\discord bot.exe
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\discord bot.pdb
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\DiscordSharp.dll
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\NAudio.dll
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\Newtonsoft.Json.dll
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\websocket-sharp.dll
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\WebSocket4Net.dll
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\DiscordSharp.pdb
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\DiscordSharp.xml
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\NAudio.xml
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\Newtonsoft.Json.xml
+D:\koodit\discord bot\discord bot\discord bot\bin\x86\Debug\websocket-sharp.xml
+D:\koodit\discord bot\discord bot\discord bot\obj\x86\Debug\discord bot.csprojResolveAssemblyReference.cache
+D:\koodit\discord bot\discord bot\discord bot\obj\x86\Debug\discord bot.exe
+D:\koodit\discord bot\discord bot\discord bot\obj\x86\Debug\discord bot.pdb
+D:\koodit\discord bot\discord bot toimiva\discord bot\bin\x86\Debug\discord bot.exe.config
+D:\koodit\discord bot\discord bot toimiva\discord bot\obj\x86\Debug\discord bot.exe
+D:\koodit\discord bot\discord bot toimiva\discord bot\obj\x86\Debug\discord bot.pdb
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\discord bot.exe.config
+D:\github projektit\discord bot toimiva\discord bot\obj\x86\Debug\discord bot.exe
+D:\github projektit\discord bot toimiva\discord bot\obj\x86\Debug\discord bot.pdb
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\discord bot.exe
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\discord bot.pdb
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\DiscordSharp.dll
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\NAudio.dll
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\Newtonsoft.Json.dll
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\websocket-sharp.dll
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\WebSocket4Net.dll
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\DiscordSharp.pdb
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\DiscordSharp.xml
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\NAudio.xml
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\Newtonsoft.Json.xml
+D:\github projektit\discord bot toimiva\discord bot\bin\x86\Debug\websocket-sharp.xml
+D:\github projektit\discord bot toimiva\discord bot\obj\x86\Debug\discord bot.csprojResolveAssemblyReference.cache
